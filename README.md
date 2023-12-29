@@ -6,7 +6,7 @@
   <p>Um pequeno blog que utiliza APIs do Github como backend</p>
 
   <!-- Links -->
-  <a href="https://github.com/othneildrew/Best-README-Template">Ver demonstração</a>
+  <a href="github-blog-unextapp.netlify.app">Ver demonstração</a>
 
 </div>
 
