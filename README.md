@@ -6,7 +6,7 @@
   <p>Um pequeno blog que utiliza APIs do Github como backend</p>
 
   <!-- Links -->
-  <a href="github-blog-unextapp.netlify.app">Ver demonstração</a>
+  <a href="https://github-blog-unextapp.netlify.app">Ver demonstração</a>
 
 </div>
 
