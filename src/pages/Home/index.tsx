@@ -35,7 +35,7 @@ const SearchInputSchema = z.object({
 
 type SeachInputType = z.infer<typeof SearchInputSchema>;
 
-export function Home() {
+export default function Home() {
 
     const {
         register,
